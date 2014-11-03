@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/rstar
+END
+rstar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/rstar/rstar.hpp
+END
+redistribute_elements.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/rstar/redistribute_elements.hpp
+END
+choose_next_node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/rstar/choose_next_node.hpp
+END
+insert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/rstar/insert.hpp
+END

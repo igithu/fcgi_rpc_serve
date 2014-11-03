@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers
+END
+list.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/list.hpp
+END
+pair.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/pair.hpp
+END
+set.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/set.hpp
+END
+stable_vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/stable_vector.hpp
+END
+map.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/map.hpp
+END
+slist.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/slist.hpp
+END
+flat_set.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/flat_set.hpp
+END
+vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/vector.hpp
+END
+deque.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/deque.hpp
+END
+flat_map.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/flat_map.hpp
+END
+containers_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/containers_fwd.hpp
+END
+allocation_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/allocation_type.hpp
+END
+string.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/string.hpp
+END
+version_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/containers/version_type.hpp
+END

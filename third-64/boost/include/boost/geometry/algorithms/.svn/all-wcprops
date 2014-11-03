@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms
+END
+is_valid.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/is_valid.hpp
+END
+equals.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/equals.hpp
+END
+num_points.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/num_points.hpp
+END
+perimeter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/perimeter.hpp
+END
+point_on_surface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/point_on_surface.hpp
+END
+within.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/within.hpp
+END
+append.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/append.hpp
+END
+centroid.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/centroid.hpp
+END
+area.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/area.hpp
+END
+buffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/buffer.hpp
+END
+touches.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/touches.hpp
+END
+transform.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/transform.hpp
+END
+reverse.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/reverse.hpp
+END
+num_interior_rings.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/num_interior_rings.hpp
+END
+make.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/make.hpp
+END
+comparable_distance.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/comparable_distance.hpp
+END
+expand.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/expand.hpp
+END
+convert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/convert.hpp
+END
+sym_difference.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/sym_difference.hpp
+END
+not_implemented.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/not_implemented.hpp
+END
+disjoint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/disjoint.hpp
+END
+is_simple.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/is_simple.hpp
+END
+assign.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/assign.hpp
+END
+clear.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/clear.hpp
+END
+distance.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/distance.hpp
+END
+difference.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/difference.hpp
+END
+overlaps.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/overlaps.hpp
+END
+simplify.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/simplify.hpp
+END
+correct.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/correct.hpp
+END
+intersection.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/intersection.hpp
+END
+for_each.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/for_each.hpp
+END
+unique.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/unique.hpp
+END
+remove_spikes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/remove_spikes.hpp
+END
+envelope.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/envelope.hpp
+END
+crosses.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/crosses.hpp
+END
+length.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/length.hpp
+END
+covered_by.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/covered_by.hpp
+END
+num_geometries.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/num_geometries.hpp
+END
+intersects.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/intersects.hpp
+END
+convex_hull.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/convex_hull.hpp
+END
+union.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/union.hpp
+END

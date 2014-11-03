@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/graph/distributed/detail
+END
+tag_allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/graph/distributed/detail/tag_allocator.hpp
+END
+mpi_process_group.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/graph/distributed/detail/mpi_process_group.ipp
+END
+filtered_queue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/graph/distributed/detail/filtered_queue.hpp
+END
+dijkstra_shortest_paths.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/graph/distributed/detail/dijkstra_shortest_paths.hpp
+END
+queue.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/graph/distributed/detail/queue.ipp
+END
+remote_update_set.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/graph/distributed/detail/remote_update_set.hpp
+END

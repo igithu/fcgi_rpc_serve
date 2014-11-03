@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/visitors
+END
+destroy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/visitors/destroy.hpp
+END
+copy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/visitors/copy.hpp
+END
+remove.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/visitors/remove.hpp
+END
+distance_query.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/visitors/distance_query.hpp
+END
+children_box.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/visitors/children_box.hpp
+END
+is_leaf.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/visitors/is_leaf.hpp
+END
+spatial_query.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/visitors/spatial_query.hpp
+END
+insert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/visitors/insert.hpp
+END
+count.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/index/detail/rtree/visitors/count.hpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/mem_algo
+END
+rbtree_best_fit.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/mem_algo/rbtree_best_fit.hpp
+END
+simple_seq_fit.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/mem_algo/simple_seq_fit.hpp
+END

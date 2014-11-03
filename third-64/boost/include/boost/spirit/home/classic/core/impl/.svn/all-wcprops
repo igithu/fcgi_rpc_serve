@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/core/impl
+END
+match.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/core/impl/match.ipp
+END
+match_attr_traits.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/core/impl/match_attr_traits.ipp
+END
+parser.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/core/impl/parser.ipp
+END

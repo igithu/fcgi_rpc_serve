@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/utility/detail
+END
+in_place_factory_prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/utility/detail/in_place_factory_prefix.hpp
+END
+result_of_iterate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/utility/detail/result_of_iterate.hpp
+END
+in_place_factory_suffix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/utility/detail/in_place_factory_suffix.hpp
+END

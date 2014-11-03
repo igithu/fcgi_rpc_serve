@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/container/deque
+END
+front_extended_deque.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/container/deque/front_extended_deque.hpp
+END
+deque_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/container/deque/deque_iterator.hpp
+END
+convert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/container/deque/convert.hpp
+END
+back_extended_deque.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/container/deque/back_extended_deque.hpp
+END
+deque.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/container/deque/deque.hpp
+END
+deque_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/container/deque/deque_fwd.hpp
+END

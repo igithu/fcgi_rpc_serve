@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home
+END
+qi.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi.hpp
+END
+x3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/x3.hpp
+END
+karma.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/karma.hpp
+END
+support.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/support.hpp
+END
+classic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic.hpp
+END
+lex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/lex.hpp
+END

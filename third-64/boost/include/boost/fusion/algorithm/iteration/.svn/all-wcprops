@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration
+END
+reverse_fold.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/reverse_fold.hpp
+END
+reverse_fold_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/reverse_fold_fwd.hpp
+END
+reverse_iter_fold.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/reverse_iter_fold.hpp
+END
+reverse_iter_fold_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/reverse_iter_fold_fwd.hpp
+END
+accumulate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/accumulate.hpp
+END
+accumulate_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/accumulate_fwd.hpp
+END
+fold.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/fold.hpp
+END
+fold_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/fold_fwd.hpp
+END
+for_each.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/for_each.hpp
+END
+for_each_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/for_each_fwd.hpp
+END
+iter_fold.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/iter_fold.hpp
+END
+iter_fold_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/iter_fold_fwd.hpp
+END

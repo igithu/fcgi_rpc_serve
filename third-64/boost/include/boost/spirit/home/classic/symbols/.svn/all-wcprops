@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/symbols
+END
+typeof.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/symbols/typeof.hpp
+END
+symbols.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/symbols/symbols.hpp
+END
+symbols_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/symbols/symbols_fwd.hpp
+END

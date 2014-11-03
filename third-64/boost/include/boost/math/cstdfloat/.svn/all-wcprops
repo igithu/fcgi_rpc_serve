@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/math/cstdfloat
+END
+cstdfloat_complex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/math/cstdfloat/cstdfloat_complex.hpp
+END
+cstdfloat_cmath.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/math/cstdfloat/cstdfloat_cmath.hpp
+END
+cstdfloat_complex_std.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/math/cstdfloat/cstdfloat_complex_std.hpp
+END
+cstdfloat_limits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/math/cstdfloat/cstdfloat_limits.hpp
+END
+cstdfloat_iostream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/math/cstdfloat/cstdfloat_iostream.hpp
+END
+cstdfloat_types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/math/cstdfloat/cstdfloat_types.hpp
+END

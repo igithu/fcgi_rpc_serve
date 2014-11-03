@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi/numeric
+END
+int.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi/numeric/int.hpp
+END
+real_policies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi/numeric/real_policies.hpp
+END
+bool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi/numeric/bool.hpp
+END
+uint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi/numeric/uint.hpp
+END
+bool_policies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi/numeric/bool_policies.hpp
+END
+numeric_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi/numeric/numeric_utils.hpp
+END
+real.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi/numeric/real.hpp
+END

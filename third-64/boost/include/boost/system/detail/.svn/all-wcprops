@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/system/detail
+END
+local_free_on_destruction.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/system/detail/local_free_on_destruction.hpp
+END
+error_code.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/system/detail/error_code.ipp
+END

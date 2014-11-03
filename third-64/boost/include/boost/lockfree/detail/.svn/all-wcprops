@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/lockfree/detail
+END
+tagged_ptr_dcas.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/lockfree/detail/tagged_ptr_dcas.hpp
+END
+atomic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/lockfree/detail/atomic.hpp
+END
+freelist.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/lockfree/detail/freelist.hpp
+END
+prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/lockfree/detail/prefix.hpp
+END
+parameter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/lockfree/detail/parameter.hpp
+END
+tagged_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/lockfree/detail/tagged_ptr.hpp
+END
+branch_hints.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/lockfree/detail/branch_hints.hpp
+END
+copy_payload.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/lockfree/detail/copy_payload.hpp
+END
+tagged_ptr_ptrcompression.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/lockfree/detail/tagged_ptr_ptrcompression.hpp
+END

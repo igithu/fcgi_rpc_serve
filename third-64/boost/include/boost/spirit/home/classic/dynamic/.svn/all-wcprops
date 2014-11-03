@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/dynamic
+END
+if.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/dynamic/if.hpp
+END
+lazy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/dynamic/lazy.hpp
+END
+select.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/dynamic/select.hpp
+END
+rule_alias.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/dynamic/rule_alias.hpp
+END
+switch.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/dynamic/switch.hpp
+END
+for.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/dynamic/for.hpp
+END
+typeof.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/dynamic/typeof.hpp
+END
+stored_rule.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/dynamic/stored_rule.hpp
+END
+stored_rule_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/dynamic/stored_rule_fwd.hpp
+END
+while.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/classic/dynamic/while.hpp
+END

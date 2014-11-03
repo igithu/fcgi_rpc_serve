@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync
+END
+interprocess_recursive_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/interprocess_recursive_mutex.hpp
+END
+sharable_lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/sharable_lock.hpp
+END
+named_condition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/named_condition.hpp
+END
+named_upgradable_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/named_upgradable_mutex.hpp
+END
+null_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/null_mutex.hpp
+END
+named_recursive_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/named_recursive_mutex.hpp
+END
+interprocess_condition_any.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/interprocess_condition_any.hpp
+END
+named_condition_any.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/named_condition_any.hpp
+END
+interprocess_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/interprocess_mutex.hpp
+END
+interprocess_sharable_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/interprocess_sharable_mutex.hpp
+END
+lock_options.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/lock_options.hpp
+END
+mutex_family.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/mutex_family.hpp
+END
+named_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/named_mutex.hpp
+END
+named_sharable_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/named_sharable_mutex.hpp
+END
+upgradable_lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/upgradable_lock.hpp
+END
+interprocess_semaphore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/interprocess_semaphore.hpp
+END
+scoped_lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/scoped_lock.hpp
+END
+interprocess_condition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/interprocess_condition.hpp
+END
+file_lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/file_lock.hpp
+END
+named_semaphore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/named_semaphore.hpp
+END
+interprocess_upgradable_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/interprocess_upgradable_mutex.hpp
+END

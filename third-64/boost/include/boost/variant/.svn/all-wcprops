@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant
+END
+recursive_variant.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/recursive_variant.hpp
+END
+multivisitors.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/multivisitors.hpp
+END
+get.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/get.hpp
+END
+apply_visitor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/apply_visitor.hpp
+END
+bad_visit.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/bad_visit.hpp
+END
+polymorphic_get.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/polymorphic_get.hpp
+END
+variant.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/variant.hpp
+END
+variant_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/variant_fwd.hpp
+END
+visitor_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/visitor_ptr.hpp
+END
+static_visitor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/static_visitor.hpp
+END
+recursive_wrapper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/recursive_wrapper.hpp
+END
+recursive_wrapper_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/variant/recursive_wrapper_fwd.hpp
+END

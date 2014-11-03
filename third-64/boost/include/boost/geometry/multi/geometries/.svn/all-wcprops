@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/multi/geometries
+END
+multi_geometries.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/multi/geometries/multi_geometries.hpp
+END
+multi_polygon.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/multi/geometries/multi_polygon.hpp
+END
+multi_point.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/multi/geometries/multi_point.hpp
+END
+multi_linestring.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/multi/geometries/multi_linestring.hpp
+END

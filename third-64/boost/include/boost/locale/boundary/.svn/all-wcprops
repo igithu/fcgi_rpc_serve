@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/locale/boundary
+END
+boundary_point.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/locale/boundary/boundary_point.hpp
+END
+segment.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/locale/boundary/segment.hpp
+END
+types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/locale/boundary/types.hpp
+END
+facets.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/locale/boundary/facets.hpp
+END
+index.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/locale/boundary/index.hpp
+END

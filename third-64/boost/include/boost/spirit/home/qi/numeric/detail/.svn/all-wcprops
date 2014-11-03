@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi/numeric/detail
+END
+numeric_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi/numeric/detail/numeric_utils.hpp
+END
+real_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/spirit/home/qi/numeric/detail/real_impl.hpp
+END

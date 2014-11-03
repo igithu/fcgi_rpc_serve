@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/log/expressions/formatters
+END
+date_time.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/log/expressions/formatters/date_time.hpp
+END
+stream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/log/expressions/formatters/stream.hpp
+END
+wrap_formatter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/log/expressions/formatters/wrap_formatter.hpp
+END
+csv_decorator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/log/expressions/formatters/csv_decorator.hpp
+END
+named_scope.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/log/expressions/formatters/named_scope.hpp
+END
+if.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/log/expressions/formatters/if.hpp
+END
+char_decorator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/log/expressions/formatters/char_decorator.hpp
+END
+xml_decorator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/log/expressions/formatters/xml_decorator.hpp
+END
+c_decorator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/log/expressions/formatters/c_decorator.hpp
+END
+format.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/log/expressions/formatters/format.hpp
+END

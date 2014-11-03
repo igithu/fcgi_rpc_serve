@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core
+END
+adaptor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/adaptor.hpp
+END
+regex_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/regex_impl.hpp
+END
+optimize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/optimize.hpp
+END
+regex_domain.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/regex_domain.hpp
+END
+access.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/access.hpp
+END
+matchers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/matchers.hpp
+END
+finder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/finder.hpp
+END
+flow_control.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/flow_control.hpp
+END
+quant_style.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/quant_style.hpp
+END
+peeker.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/peeker.hpp
+END
+list.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/list.hpp
+END
+action.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/action.hpp
+END
+state.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/state.hpp
+END
+results_cache.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/results_cache.hpp
+END
+linker.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/linker.hpp
+END
+icase.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/icase.hpp
+END
+sub_match_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/sub_match_impl.hpp
+END
+sub_match_vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/xpressive/detail/core/sub_match_vector.hpp
+END

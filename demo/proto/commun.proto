@@ -1,0 +1,23 @@
+package fcgi_commu;
+//package fcgi_http_server;
+
+
+enum Op {
+	SUB = 0;
+	ADD = 1;
+}
+
+message FcgiHttpRequest {
+	optional string op = 1 [default = "+"];
+	optional int32 param_one = 2 [default = 0];
+	optional int32 param_two = 3 [default = 0];
+	optional string ip = 4 [default = ""];
+	optional string fmt  = 5 [default = "json"];
+}
+
+message FcgiHttpResponse {
+	optional int32 result = 1 [default = 0];
+	optional int64 cal_time = 2 [default = 0];
+	optional string ip = 3 [default = ""];
+}
+

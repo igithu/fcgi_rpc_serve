@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/register
+END
+point.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/register/point.hpp
+END
+linestring.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/register/linestring.hpp
+END
+ring.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/register/ring.hpp
+END
+multi_polygon.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/register/multi_polygon.hpp
+END
+segment.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/register/segment.hpp
+END
+multi_point.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/register/multi_point.hpp
+END
+box.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/register/box.hpp
+END
+multi_linestring.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/register/multi_linestring.hpp
+END

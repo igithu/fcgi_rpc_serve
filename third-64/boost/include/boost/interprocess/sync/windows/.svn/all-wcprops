@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows
+END
+recursive_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/recursive_mutex.hpp
+END
+winapi_mutex_wrapper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/winapi_mutex_wrapper.hpp
+END
+named_condition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/named_condition.hpp
+END
+winapi_semaphore_wrapper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/winapi_semaphore_wrapper.hpp
+END
+sync_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/sync_utils.hpp
+END
+named_recursive_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/named_recursive_mutex.hpp
+END
+winapi_wrapper_common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/winapi_wrapper_common.hpp
+END
+named_sync.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/named_sync.hpp
+END
+named_condition_any.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/named_condition_any.hpp
+END
+mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/mutex.hpp
+END
+semaphore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/semaphore.hpp
+END
+condition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/condition.hpp
+END
+named_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/named_mutex.hpp
+END
+named_semaphore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/interprocess/sync/windows/named_semaphore.hpp
+END

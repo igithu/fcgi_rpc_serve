@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/detail/turns
+END
+debug_turn.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/detail/turns/debug_turn.hpp
+END
+compare_turns.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/detail/turns/compare_turns.hpp
+END
+remove_duplicate_turns.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/detail/turns/remove_duplicate_turns.hpp
+END
+filter_continue_turns.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/detail/turns/filter_continue_turns.hpp
+END
+print_turns.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/detail/turns/print_turns.hpp
+END

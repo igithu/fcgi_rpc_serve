@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/bimap/relation/detail
+END
+static_access_builder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/bimap/relation/detail/static_access_builder.hpp
+END
+access_builder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/bimap/relation/detail/access_builder.hpp
+END
+metadata_access_builder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/bimap/relation/detail/metadata_access_builder.hpp
+END
+mutant.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/bimap/relation/detail/mutant.hpp
+END
+to_mutable_relation_functor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/bimap/relation/detail/to_mutable_relation_functor.hpp
+END

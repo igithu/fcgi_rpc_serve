@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/thrust
+END
+thrust.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/thrust/thrust.hpp
+END
+thrust_resize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/thrust/thrust_resize.hpp
+END
+thrust_algebra_dispatcher.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/thrust/thrust_algebra_dispatcher.hpp
+END
+thrust_operations.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/thrust/thrust_operations.hpp
+END
+thrust_operations_dispatcher.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/thrust/thrust_operations_dispatcher.hpp
+END
+thrust_algebra.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/thrust/thrust_algebra.hpp
+END

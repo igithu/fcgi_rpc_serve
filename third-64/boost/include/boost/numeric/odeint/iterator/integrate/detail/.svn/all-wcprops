@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/iterator/integrate/detail
+END
+integrate_n_steps.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/iterator/integrate/detail/integrate_n_steps.hpp
+END
+integrate_adaptive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/iterator/integrate/detail/integrate_adaptive.hpp
+END
+functors.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/iterator/integrate/detail/functors.hpp
+END
+integrate_times.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/iterator/integrate/detail/integrate_times.hpp
+END
+integrate_const.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/iterator/integrate/detail/integrate_const.hpp
+END

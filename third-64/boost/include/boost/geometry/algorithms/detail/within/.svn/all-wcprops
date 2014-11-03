@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/detail/within
+END
+within_no_turns.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/detail/within/within_no_turns.hpp
+END
+point_in_geometry.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/algorithms/detail/within/point_in_geometry.hpp
+END

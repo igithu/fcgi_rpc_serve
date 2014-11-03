@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os
+END
+windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/windows.h
+END
+ios.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/ios.h
+END
+linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/linux.h
+END
+cygwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/cygwin.h
+END
+macos.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/macos.h
+END
+os400.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/os400.h
+END
+vms.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/vms.h
+END
+bsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/bsd.h
+END
+irix.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/irix.h
+END
+solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/solaris.h
+END
+android.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/android.h
+END
+amigaos.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/amigaos.h
+END
+aix.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/aix.h
+END
+unix.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/unix.h
+END
+hpux.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/hpux.h
+END
+qnxnto.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/qnxnto.h
+END
+beos.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/os/beos.h
+END

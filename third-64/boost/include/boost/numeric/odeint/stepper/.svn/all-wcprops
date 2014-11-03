@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper
+END
+rosenbrock4_dense_output.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/rosenbrock4_dense_output.hpp
+END
+rosenbrock4.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/rosenbrock4.hpp
+END
+generation.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/generation.hpp
+END
+bulirsch_stoer_dense_out.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/bulirsch_stoer_dense_out.hpp
+END
+rosenbrock4_controller.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/rosenbrock4_controller.hpp
+END
+controlled_step_result.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/controlled_step_result.hpp
+END
+symplectic_rkn_sb3a_mclachlan.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/symplectic_rkn_sb3a_mclachlan.hpp
+END
+symplectic_rkn_sb3a_m4_mclachlan.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/symplectic_rkn_sb3a_m4_mclachlan.hpp
+END
+adams_bashforth_moulton.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/adams_bashforth_moulton.hpp
+END
+adams_moulton.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/adams_moulton.hpp
+END
+runge_kutta_fehlberg78.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/runge_kutta_fehlberg78.hpp
+END
+implicit_euler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/implicit_euler.hpp
+END
+symplectic_euler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/symplectic_euler.hpp
+END
+explicit_generic_rk.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/explicit_generic_rk.hpp
+END
+runge_kutta_dopri5.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/runge_kutta_dopri5.hpp
+END
+runge_kutta_cash_karp54.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/runge_kutta_cash_karp54.hpp
+END
+runge_kutta4.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/runge_kutta4.hpp
+END
+euler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/euler.hpp
+END
+runge_kutta_cash_karp54_classic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/runge_kutta_cash_karp54_classic.hpp
+END
+runge_kutta4_classic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/runge_kutta4_classic.hpp
+END
+controlled_runge_kutta.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/controlled_runge_kutta.hpp
+END
+velocity_verlet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/velocity_verlet.hpp
+END
+explicit_error_generic_rk.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/explicit_error_generic_rk.hpp
+END
+modified_midpoint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/modified_midpoint.hpp
+END
+adams_bashforth.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/adams_bashforth.hpp
+END
+dense_output_runge_kutta.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/dense_output_runge_kutta.hpp
+END
+stepper_categories.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/stepper_categories.hpp
+END
+bulirsch_stoer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/stepper/bulirsch_stoer.hpp
+END

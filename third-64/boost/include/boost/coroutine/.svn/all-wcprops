@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine
+END
+stack_context.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/stack_context.hpp
+END
+stack_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/stack_traits.hpp
+END
+flags.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/flags.hpp
+END
+protected_stack_allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/protected_stack_allocator.hpp
+END
+segmented_stack_allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/segmented_stack_allocator.hpp
+END
+exceptions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/exceptions.hpp
+END
+symmetric_coroutine.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/symmetric_coroutine.hpp
+END
+asymmetric_coroutine.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/asymmetric_coroutine.hpp
+END
+standard_stack_allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/standard_stack_allocator.hpp
+END
+stack_allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/stack_allocator.hpp
+END
+attributes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/attributes.hpp
+END
+coroutine.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/coroutine.hpp
+END
+all.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/coroutine/all.hpp
+END

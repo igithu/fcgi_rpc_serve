@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/compute
+END
+compute_algebra.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/compute/compute_algebra.hpp
+END
+compute.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/compute/compute.hpp
+END
+compute_resize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/compute/compute_resize.hpp
+END
+compute_algebra_dispatcher.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/compute/compute_algebra_dispatcher.hpp
+END
+compute_operations.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/compute/compute_operations.hpp
+END
+compute_operations_dispatcher.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/compute/compute_operations_dispatcher.hpp
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std
+END
+vacpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std/vacpp.h
+END
+msl.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std/msl.h
+END
+_prefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std/_prefix.h
+END
+stdcpp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std/stdcpp3.h
+END
+cxx.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std/cxx.h
+END
+sgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std/sgi.h
+END
+modena.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std/modena.h
+END
+libcomo.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std/libcomo.h
+END
+roguewave.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std/roguewave.h
+END
+dinkumware.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std/dinkumware.h
+END
+stlport.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/predef/library/std/stlport.h
+END

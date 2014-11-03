@@ -1,0 +1,7 @@
+模块:protobuf
+来源:http://protobuf.googlecode.com/files/protobuf-2.4.1.tar.bz2
+MD5:ed436802019c9e1f40cc750eaf78f318  protobuf-2.4.1.tar.bz2
+引入人员:sat[songhuiqing@baidu.com]
+编译方式:sh build.sh
+编译注意:无
+更多参考信息:无

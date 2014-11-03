@@ -1,0 +1,7 @@
+模块:gflags
+来源:http://google-gflags.googlecode.com/files/gflags-1.6.tar.gz
+MD5:fa2cd6ee449f5e77fa7d43054973feba  gflags-1.6.tar.gz
+引入人员:COM[zhangyan04@baidu.com]
+编译方式:sh build.sh
+编译注意:无
+更多参考信息:无

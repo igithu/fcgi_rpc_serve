@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/algorithm
+END
+minmax.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/algorithm/minmax.hpp
+END
+gather.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/algorithm/gather.hpp
+END
+clamp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/algorithm/clamp.hpp
+END
+string_regex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/algorithm/string_regex.hpp
+END
+minmax_element.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/algorithm/minmax_element.hpp
+END
+hex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/algorithm/hex.hpp
+END
+string.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/algorithm/string.hpp
+END

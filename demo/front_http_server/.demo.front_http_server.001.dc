@@ -1,0 +1,8 @@
+===DumpCollectedConfigs===
+demo/front_http_server@???@comake
+    third-64/thrift@thrift_0-9-1-400_PD_BL@thrift_0-9-1-400_PD_BL
+    third-64/boost@boost_1-56-0-100_PD_BL@boost_1-56-0-100_PD_BL
+    third-64/json-cpp@json-cpp_0-6-1-400_PD_BL@json-cpp_0-6-1-400_PD_BL
+    third-64/protobuf@protobuf_2-4-1-1100_PD_BL@protobuf_2-4-1-1100_PD_BL
+    third-64/gflags@gflags_2-0-0-100_PD_BL@gflags_2-0-0-100_PD_BL
+    third-64/glog@glog_0-3-3-100_PD_BL@glog_0-3-3-100_PD_BL

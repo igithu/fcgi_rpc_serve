@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/mtl4
+END
+mtl4.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/mtl4/mtl4.hpp
+END
+mtl4_resize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/mtl4/mtl4_resize.hpp
+END
+mtl4_algebra_dispatcher.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/mtl4/mtl4_algebra_dispatcher.hpp
+END
+implicit_euler_mtl4.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/numeric/odeint/external/mtl4/implicit_euler_mtl4.hpp
+END

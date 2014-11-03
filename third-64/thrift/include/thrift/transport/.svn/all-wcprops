@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport
+END
+TSimpleFileTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TSimpleFileTransport.h
+END
+THttpServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/THttpServer.h
+END
+TFDTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TFDTransport.h
+END
+TShortReadTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TShortReadTransport.h
+END
+TBufferTransports.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TBufferTransports.h
+END
+TSSLSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TSSLSocket.h
+END
+TTransportException.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TTransportException.h
+END
+TTransportUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TTransportUtils.h
+END
+TZlibTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TZlibTransport.h
+END
+THttpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/THttpClient.h
+END
+TServerSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TServerSocket.h
+END
+TSocketPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TSocketPool.h
+END
+TServerTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TServerTransport.h
+END
+TPipeServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TPipeServer.h
+END
+TSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TSocket.h
+END
+THttpTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/THttpTransport.h
+END
+TFileTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TFileTransport.h
+END
+TTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TTransport.h
+END
+TPipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TPipe.h
+END
+TSSLServerSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TSSLServerSocket.h
+END
+TVirtualTransport.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/transport/TVirtualTransport.h
+END

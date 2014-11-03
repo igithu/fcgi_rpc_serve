@@ -1,0 +1,98 @@
+10
+
+dir
+1060
+https://svn.baidu.com/third-64/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry
+https://svn.baidu.com/third-64
+
+
+
+2014-08-18T11:56:30.561341Z
+1059
+svn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3288a37f-f1ba-43f7-b299-e9499e7d088b
+
+geometry.hpp
+file
+
+
+
+
+2014-10-28T09:22:59.000000Z
+a31dbd6e55ee3f40a865e7c31dc00144
+2014-08-18T11:56:30.561341Z
+1059
+svn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4635
+
+geometries
+dir
+
+index
+dir
+
+io
+dir
+
+policies
+dir
+
+core
+dir
+
+algorithms
+dir
+
+arithmetic
+dir
+
+multi
+dir
+
+strategies
+dir
+
+iterators
+dir
+
+util
+dir
+
+views
+dir
+

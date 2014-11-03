@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/functional/invocation
+END
+invoke.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/functional/invocation/invoke.hpp
+END
+limits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/functional/invocation/limits.hpp
+END
+invoke_procedure.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/functional/invocation/invoke_procedure.hpp
+END
+invoke_function_object.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/functional/invocation/invoke_function_object.hpp
+END

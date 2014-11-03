@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/adapted/boost_polygon
+END
+point.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/adapted/boost_polygon/point.hpp
+END
+holes_proxy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/adapted/boost_polygon/holes_proxy.hpp
+END
+ring.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/adapted/boost_polygon/ring.hpp
+END
+hole_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/adapted/boost_polygon/hole_iterator.hpp
+END
+ring_proxy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/adapted/boost_polygon/ring_proxy.hpp
+END
+polygon.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/adapted/boost_polygon/polygon.hpp
+END
+box.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/geometry/geometries/adapted/boost_polygon/box.hpp
+END

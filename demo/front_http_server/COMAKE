@@ -1,0 +1,47 @@
+#edit-mode: -*- python -*-
+#coding:gbk
+
+WORKROOT('../../')
+
+CopyUsingHardLink(True)
+
+#ENABLE_MULTI_LIBS(True)
+
+CPPFLAGS('-D_GNU_SOURCE -D__STDC_LIMIT_MACROS -DVERSION=\\\"1.9.8.7\\\"')
+#CPPFLAGS_32('-D_XOPEN_SOURE=500')
+
+
+CFLAGS('-g -pipe -W -Wall -fPIC')
+
+#C++±‡“Î≤Œ ˝.
+CXXFLAGS('-g -pipe -W -Wall -fPIC')
+
+#IDLFLAGS('--compack')
+
+#UBRPCFLAGS('--compack')
+INCPATHS('./src')
+#CONFIGS('third/fcgi')
+CONFIGS('third/thrift')
+#CONFIGS('third/fcgi')
+CONFIGS('third/boost')
+CONFIGS('third/json-cpp')
+CONFIGS('third/protobuf')
+CONFIGS('third/gflags')
+CONFIGS('third/glog')
+
+#INCPATHS('. ./include ./output ./output/include')
+
+LDFLAGS('-lpthread -lcrypto -lrt')
+
+
+user_sources=GLOB('src/*.cpp', 'proto_cpp/*.cpp')
+user_headers=GLOB('src/*.h', 'proto_cpp/*.h')
+
+StaticLibrary('http_server', Sources(user_sources), HeaderFiles(user_headers))
+
+Application('fcgi_http_server', Sources("src/main.cc"), Libraries("libhttp_server.a"))
+
+#StaticLibrary('http_server',Sources(user_sources),HeaderFiles(user_headers))
+#SharedLibrary('http_server',Sources(user_sources),HeaderFiles(user_headers))
+#Directory('demo')
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/server
+END
+TServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/server/TServer.h
+END
+TThreadedServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/server/TThreadedServer.h
+END
+TThreadPoolServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/server/TThreadPoolServer.h
+END
+TNonblockingServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/server/TNonblockingServer.h
+END
+TSimpleServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/third-64/!svn/ver/1075/tags/thrift/thrift_0-9-1-400_PD_BL/include/thrift/server/TSimpleServer.h
+END

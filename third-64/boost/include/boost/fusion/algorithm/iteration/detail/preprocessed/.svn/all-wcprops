@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/detail/preprocessed
+END
+reverse_fold.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/detail/preprocessed/reverse_fold.hpp
+END
+reverse_iter_fold.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/detail/preprocessed/reverse_iter_fold.hpp
+END
+fold.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/detail/preprocessed/fold.hpp
+END
+iter_fold.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/third-64/!svn/ver/1060/tags/boost/boost_1-56-0-100_PD_BL/include/boost/fusion/algorithm/iteration/detail/preprocessed/iter_fold.hpp
+END
