@@ -8,7 +8,7 @@
  
 /**
  * @file backend_rpc_server.h
- * @author aishuyu(com@baidu.com)
+ * @author aishuyu(asy5178@163.com)
  * @date 2014/10/30 16:43:33
  * @brief 
  *  

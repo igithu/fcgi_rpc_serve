@@ -8,7 +8,7 @@
  
 /**
  * @file main.cc
- * @author aishuyu(com@baidu.com)
+ * @author aishuyu(asy5178@163.com)
  * @date 2014/10/30 16:35:48
  * @brief 
  *  

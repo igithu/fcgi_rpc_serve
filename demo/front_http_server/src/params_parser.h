@@ -8,7 +8,7 @@
  
 /**
  * @file params_parser.h
- * @author aishuyu(com@baidu.com)
+ * @author aishuyu(asy5178@163.com)
  * @date 2014/10/27 15:25:28
  * @brief 
  *  

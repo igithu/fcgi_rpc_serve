@@ -8,7 +8,7 @@
  
 /**
  * @file thrift_rpc_client.h
- * @author aishuyu(com@baidu.com)
+ * @author aishuyu(asy5178@163.com)
  * @date 2014/10/27 18:07:12
  * @brief 
  *  

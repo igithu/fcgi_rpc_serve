@@ -8,7 +8,7 @@
  
 /**
  * @file result_format.h
- * @author aishuyu(com@baidu.com)
+ * @author aishuyu(asy5178@163.com)
  * @date 2014/10/28 15:12:58
  * @brief 
  *  
