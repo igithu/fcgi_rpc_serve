@@ -1,6 +1,6 @@
 /***************************************************************************
  * 
- * Copyright (c) 2014 Baidu.com, Inc. All Rights Reserved
+ * Copyright (c) 2014 aishuyu.com, Inc. All Rights Reserved
  * 
  **************************************************************************/
  
@@ -8,7 +8,7 @@
  
 /**
  * @file init_google.h
- * @author aishuyu(com@baidu.com)
+ * @author aishuyu(asy5178@163.com)
  * @date 2014/11/03 13:10:15
  * @brief 
  *  
